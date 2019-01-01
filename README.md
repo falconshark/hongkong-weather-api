@@ -7,6 +7,9 @@ HKO Weather API is a wrapper of [node-hongkong-weather](https://github.com/hongk
 Node Hong Kong Weather is a non-completed project, so currently it only can get current weather data.
 Maybe I will help it implement more function
 
+## Pre-Ready API
+http://weather.sardo.work/
+
 ## Requirement
 
 Node.js Version >= 8.0.0
