@@ -11,7 +11,7 @@
   "dependencies": {
     "@koa/cors": "2",
     "hongkong-weather": "^1.0.0",
-    "hongkong-weather-day": "^0.0.1",
+    "hongkong-weather-day": "^0.0.2",
     "koa": "^2.5.3",
     "koa-body": "^4.0.4",
     "koa-bodyparser": "^4.2.1",

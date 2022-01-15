@@ -536,10 +536,10 @@ has@^1.0.3:
   dependencies:
     function-bind "^1.1.1"
 
-hongkong-weather-day@^0.0.1:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/hongkong-weather-day/-/hongkong-weather-day-0.0.1.tgz#7bfbbfc249986812d34d9fa75d38831a1513b102"
-  integrity sha512-KldjEF+nlWqp2E8UzzI5wkOBkmuHG/kXYZcsbbPK50Ut0RyK3cFmi1SjkQ3RSgKXOp0t1SaiHqZUb6e634ptEw==
+hongkong-weather-day@^0.0.2:
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/hongkong-weather-day/-/hongkong-weather-day-0.0.2.tgz#902f37dac128318463626f97328d33c33874c65b"
+  integrity sha512-o8iDJMMiykLZNdMcfltdpcrHwkWCPLblTFINGXAxS0QSa6w5bVlIFfOpZPDAQrxDBywA29qwDjaJgNXOmq6jjQ==
   dependencies:
     node-fetch "^3.1.0"
 
