@@ -1,8 +1,8 @@
-const Koa = require('koa');
-const koaBody = require('koa-body');
-const cors = require('@koa/cors');
-const log4js = require('koa-log4')
-const router = require('./lib/router');
+import Koa from 'koa';
+import koaBody from 'koa-body';
+import cors from '@koa/cors';
+import log4js from 'koa-log4';
+import router from './lib/router.js';
 
 const infoLogger = log4js.getLogger('info');
 infoLogger.level = 'info';

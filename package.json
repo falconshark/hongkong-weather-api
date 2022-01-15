@@ -1,12 +1,12 @@
 {
-  "name": "neverland-database",
+  "name": "hongkong-weather-api",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:dollars0427/count-words.git",
+  "type": "module",
   "author": "Sardo <sardo.ip@sardo.work>",
   "license": "MIT",
   "scripts": {
-    "start": "node main.js & node cron.js"
+    "start": "node main.js"
   },
   "dependencies": {
     "@koa/cors": "2",
